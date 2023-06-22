@@ -1,6 +1,6 @@
 <h1>Medical Bill Uploader</h1>
 
-A simple React app that allows users to upload medical bills. The application should have the following features:
+A simple React app that allows users to upload medical bills. The application has the following features:
 
 - A form to input the medical bill information, including the patient name and address, the hospital name, date of service, bill amount and a picture of the bill.
 <img width="892" alt="image" src="https://github.com/ksbirada/medical-bill-app/assets/125707168/c4562943-577b-4d17-a861-7971c06199f3">
